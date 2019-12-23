@@ -1,0 +1,15 @@
+                                   CHAPTER 3 : 
+                               Quadratic Equations                     
+
+ A quadratic equation is any equation having the form ax^2 + bx + c = 0
+ Here, a cannot be zero because if it is, then the equation will no longer be
+ a quadratic. It changes into linear.Because the quadratic equation involves 
+ only one unknown, it is called 'univariate'. Its degree is 2.
+
+ Some examples of quadratic equations are : 
+  (i)   x^2 + 5x + 6 = 0
+  (ii)  x^2 + 2x + 1 = 0
+  (iii) x^2 + 4x + 4 = 0
+
+ A general quadratic equation is of the form : 
+ ax^2 + bx + c = 0 { a,b,c belong to R; a!=0 }

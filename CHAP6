@@ -1,0 +1,29 @@
+                                   CHAPTER 6 : 
+                                  Determinants
+
+ To every square matrix A of order n,we can associate a number called
+ determinant.It is denoted by det(A)  or  |A|.
+
+ Properties of determinant:
+
+  1) The value of the determinant remains unchanged if its rows and columns are
+    interchanged.
+
+  2) If any two rows of a determinant are interchanged, the sign changes.
+
+  3) If any two rows of a determinant are identical then the value is zero.
+
+  4) If each element of a row of a determinant is multiplied by a constant, then
+    its value gets multiplied with it.
+
+  5) If some or all elements of a row of a determinant are expressed as sum of
+    two terms, then the determinant can be expressed as sum of two determinants. 
+
+ Calculation of determinant:
+
+ Determinant of a matrix can be calculated by choosing one particular row or
+ column.Then calculating the co-factors of that row(or column) and then
+ multiplying with the corresponding elements of that row(or column).
+
+ A Matrix is called singular if its  determinant value is zero and non-singular
+ if its determinant value is not zero.

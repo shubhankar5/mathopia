@@ -1,0 +1,60 @@
+
+CHAPTER 7 : Geometrical Figures
+
+ A geometrical shape is the geometric information which remains when location,
+ scale, orientation and reflection are removed from the description of a
+ geometrical object. They have a definite area. Here are the areas and all other
+ stuff related to these geometrical figures :
+
+ I) 2-D figures:
+
+  1. Circle
+      (a) Area - 3.14*radius*radius
+      (b) Circumference - 2*3.14*radius
+      (c) Diameter - 2*radius
+  2.Triangle
+      (a) Area - 1/2*base*height
+      (b) Perimeter - For a triangle with sides a,b,c, its perimeter is a+b+c.
+      (c) Orthocenter - The point of intersection of all the altitudes of a
+                        triangle.
+      (d) Centroid - The point of intersection of all the medians of a triangle. 
+  3. Square
+      (a) Area - For a square of side a, its area is a*a
+      (b) Perimeter - 4*a
+      (c) Diagonal - 1.414*a
+  4. Rectangle
+      (a) Area - For a rectangle of length l and breadth b, its area is l*b
+      (b) Perimeter - 2*(l+b)
+      (c) Diagonal - sqrroot(l*l + b*b)
+  5. Trapezium
+      (a)Area={(Sum of parallel sides) * Height}/2
+      (b)Perimeter=Sum of all sides
+
+ II) 3-D figures
+
+  1. Sphere
+      (a) Area - 4*3.14*radius*radius
+      (b) Volume - 1.33*3.4*radius*radius*radius
+      (c) Diameter - 2*radius
+  2. Hemi-sphere
+      (a) Area - 3*3.14*radius*radius      (b) Volume - 0.66*3.14*radius*radius*radius
+      (c) Diameter - 2*radius
+  3. Cube
+      (a) Area - For a cube of side a, its volume is a*a*a
+      (b) Volume - 6*a*a
+      (c) Diagonal - 6.93*a
+  4. Cuboid
+      (a) Area - For a cuboid of height h, length l and breadth b its area
+			is 2*(l*b + b*h + h*l)
+      (b) Volume - l*b*h
+      (c) Diagonal - sqrroot(l*l + b*b + h*h)
+  5. Cylinder
+      (a) Surface Area - For a cylinder of height h and radius r, the area is
+				       2*3.14*r*h + 2*3.14*r*r
+      (b) Volume - 3.14*r*r*h
+      (c) Lateral Surface Area - 2*3.14*r*h
+  6. Cone
+      (a) Surface Area - For a cone of height h and radius r, the area is
+				       3.14*r*(r + sqrroot(h*h + r*r)
+      (b) Volume - 0.33*3.14*r*r*h
+      (c) Lateral Surface Area - 3.14*r*sqrroot(h*h + r*r)

@@ -1,0 +1,94 @@
+                                   CHAPTER 5 : 
+                                    Matrices
+
+ Matrices are one of the most powerful tools in mathematics. A matrix is an
+ ordered rectangular array of numbers or functions. The numbers or functions
+ are called the elements or the entries of the matrix.Matrices are denoted
+ by capital letters. Some examples are,
+	_     _          _     _ 
+       | 2 3 4 |        | 1 0 0 |
+   A = | 1 9 7 |,   B = | 0 1 0 |,  etc.
+       |_1 9 7_|        |_0 0 1_|
+
+ Types of Matrices:
+
+ In the above examples, the horizontal lines of elements are said to constitute
+ rows of the matrix and the vertical lines of elements are said to constitute
+ columns of the matrix. A matrix having m rows and n columns is called a matrix
+ of the order 'm x n'. Generally, an 'm x n' matrix is a rectangular array.
+ If m = n, then the matrix is a square matrix.A matrix is said to be a column
+ matrix if it has only one column. 
+ For example,
+        _   _ 
+       |  2  |
+   A = |  1  | Here, A is a column matrix of order '3 x 1'.
+       |_ 5 _|
+ A matrix is said to be a row matrix if it has only one row. For example,
+   B = [ 1 2 3 ] Here, B is a row matrix of order '1 x 3'.
+ A matrix is said to be a diagonal matrix if all its non diagonal elements are
+ zero. For example,
+	_     _ 
+       | 2 0 0 |
+   C = | 0 9 0 | Here, C is a diagonal matrix.
+       |_0 0 5_|
+ A matrix is said to be a scalar matrix if all its diagonal elements are equal
+ and all the other elements are zero. For example ,
+	 _     _ 
+	| 2 0 0 |
+    D = | 0 2 0 | Here, D is a scalar matrix.
+	|_0 0 2_| 
+ A matrix is said to be an identity matrix if all diagonal elements are 1 and
+ all other elements are zero. For example,
+	_     _ 
+       | 1 0 0 |
+   E = | 0 1 0 |  Here, E is an identity matrix.
+       |_0 0 1_|
+ A matrix is said to be a zero matrix if all its elements are zero.
+	 _     _ 
+	| 0 0 0 |
+    F = | 0 0 0 | Here, F is a zero matrix.
+	|_0 0 0_|
+ A matrix is an involutary matrix if and only if A^2 = I. Involutory matrices
+ are all square roots of the identity matrix. For example,
+      _  _  _              _   _ 
+   G=|4   -1 |      G^2= | 1  0 |
+     |_15 -4_|           |_0  1_|
+ A square matrix A is said to be idempotent if A^2 =A. For example       _        _               _         _  
+     | 2  -2  4 |             | 2  -2  -4 |
+   H=|-1  3  4  |        H^2= | -1  3  4  |
+     |_1 -2  -3_|             |_1  -2  -3_|
+
+ Transpose (Denoted by A'):
+
+ The matrix obtained by interchanging the rows and columns is called a
+ transpose.Its denoted by A'. If A = A', then the matrix is symmetric.
+ If A = -A', then the matrix is called skew symmetric matrix. For example,
+
+ Trace (Denoted by T(A)):
+
+ Trace of a matrix is the sum of all the elements of the principal diagonal of
+ the matrix.
+
+ Adjoint (Denoted by adj(A)):
+
+ Adjoint of a matrix is the transpose of the matrix formed by taking the co-
+ factors of each element in the respective order.
+            adj(A)= C' {C is the matrix of the co-factors} 
+
+ Inverse (Denoted by A^-1):
+
+ If A is a square matrix of order m and if there exists another square matrix
+ B of the same order m such that AB = BA = I, then B is called the inverse of
+  A.
+                    A^-1 = adj(A)/ det(A)
+
+ Matrix addition:
+
+ Matrices can be added only when they are compareable and their orders are
+ same.It is similar to basic addition but is just done to all elements in the
+ corresponding order.
+
+ Matrix multiplication:
+
+ Two matrices A(m X n) and B(p X q) can be multiplied only when n=p.
+ Matrix multiplication is done in row to column way.

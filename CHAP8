@@ -1,0 +1,21 @@
+                                   CHAPTER 8 : 
+                                  Trigonometry
+
+ Trigonometry is a branch of mathematics that studies relationships
+ involving lengths and angles of triangles. There are 6 basic trigonometric
+ function namely sine, cosine, tangent, cotangent, cosecant and secant.
+
+ There are   trigonometric identities : 
+
+  (a) (sinA)^2 + (cosA)^2 = 1
+  (b) (secA)^2 + (tanA)^2 = 1
+  (c) (cosecA)^2 + (cotA)^2 = 1
+
+ Some other important formulae include : 
+
+  (a) sin(A + B) = sinA*cosB + cosA*sinB
+  (b) sin(A - B) = sinA*cosB - cosA*sinB
+  (c) cos(A + B) = cosA*cosB - sinA*sinB
+  (d) cos(A - B) = cosA*cosB + sinA*sinB
+  (e) sin(2A) = 2*sinA*cosA
+  (f) cos(2A) = (cosA)^2 - (sinA)^2

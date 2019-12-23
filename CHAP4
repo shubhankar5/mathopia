@@ -1,0 +1,14 @@
+                                    CHAPTER 4 : 
+                                  Cubic function                    
+ 
+ A cubic function is any function having the form ax^3 + bx^2 + cx + d = 0.
+ Here, a cannot be zero because if it is, then the function will no longer be
+ a cubic. It changes into quadratic. The solutions of this function are called
+ the roots of the equation. Its degree is 3.
+
+ Some examples of cubic equations are : 
+  (i)   x^3 + 5x^2 + 6x + 9 = 0
+  (ii)  x^3 + 2x + 1 = 0
+  (iii) x^3 + 4 = 0
+ A general cubic is of the form : 
+ ax^3 + bx^2 + cx + d = 0 { a,b,c,d belong to R; a!=0 }
