@@ -7,4 +7,4 @@ Has three parts:
 
 
 
-Copy all the files into the bin and use turbo C for running the code.
+Copy all the files into the bin and use turbo C++ for running the code.
